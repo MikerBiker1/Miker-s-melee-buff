@@ -76,3 +76,6 @@ Windows LuaJIT/FFI startup and live game behavior have not been tested here.
 Build Source/melee_buff.lua with BingusSharedLoader/scripts/build_addon.py:
 resource `mods/codex/helmet_durability_demo20`, GUID
 `770fef04-6a51-4514-b807-3294288b4497`. Retain these identities for updates.
+
+## Support
+If you enjoy my mods and would like to support my work, consider buying me a coffee on Ko-fi! Any support is greatly appreciated. https://ko-fi.com/mikerbiker
